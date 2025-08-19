@@ -148,3 +148,11 @@ a {
     --height: 44px;
     min-width: 104px;
 }
+
+
+/* Hero */
+
+.hero {
+    display: flex;
+    margin-top: 76px;
+}
